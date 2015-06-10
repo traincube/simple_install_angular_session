@@ -1,0 +1,6 @@
+this is where you keep your express
+ application configuration files
+each module will be configured in a dedicated javascript file which gets placed inside this config folder
+
+config.js
+express.js

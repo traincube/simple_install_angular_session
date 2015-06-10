@@ -1,0 +1,5 @@
+this is where you keep your express
+ environment configuration files
+
+development.js exports the environment variable that is read from the main application file server.js
+

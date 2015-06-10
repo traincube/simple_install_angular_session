@@ -1,0 +1,15 @@
+this is where you keep your express
+ static client-side files
+
+inside the following folders that comply with the MVC pattern
+
+config
+controllers
+css
+directives
+filters
+img
+views
+
+
+application.js (this is where AngularJS application gets initialized)
